@@ -1,6 +1,6 @@
 # Project Digital Divide
 
-Legacy website for **Project Digital Divide (PDD)**, a student-led nonprofit bridging the digital
+Legacy website for [**Project Digital Divide (PDD)**](https://www.projectdigitaldivide.org/), a student-led nonprofit bridging the digital
 divide through three programs: device refurbishment and donation, digital-literacy education
 (with an AI focus), and broadband-access advocacy.
 
